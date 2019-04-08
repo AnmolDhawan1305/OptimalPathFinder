@@ -1,0 +1,61 @@
+9
+Macdonald
+KFC
+Golf_club
+Temple
+Mall
+Gaming_complex
+Museum
+Sanctuary 
+Call_center
+$
+0 Rajiv_marg 0 0 0 0 0 0 0
+Rajiv_marg 0 Gandhi_marg 0 0 0 0 Gola_road 0 
+0 Gandhi_marg 0 Yesornot_marg 0 0 0 0 0 
+0 0 Yesornot_marg 0 Bailey_road MNC_road 0 0 0 
+0 0 0 Bailey_road 0 Vishal_marg 0 0 0 
+0 0 Ashram_marg MNC_road Vishal_marg 0 Dhawan_marg 0 0
+0 0 0 0 0 Dhawan_marg 0 Acoustic_marg Guthi_road
+Bhadson_road Gola_road 0 0 0 0 Acoustic_marg 0 Anup_road
+0 0 Andrew_road 0 0 0 0 Anup_road 0
+
+0 4 0 0 0 0 0 8 0
+4 0 8 0 0 0 0 11 0
+0 8 0 7 0 4 0 0 2
+0 0 7 0 9 14 0 0 0
+0 0 0 9 0 10 0 0 0
+0 0 4 14 10 0 2 0 0
+0 0 0 0 0 2 0 1 6
+8 11 0 0 0 0 1 0 7
+0 0 2 0 0 0 6 7 0
+
+0 15 0 0 0 0 0 0 0
+15 0 18 0 0 0 0 18 0
+0 18 0 17 0 53 0 0 46
+0 0 17 0 4 12 0 0 0
+0 0 0 4 0 9 0 0 0
+0 0 53 12 9 0 19 0 0
+0 0 0 0 0 19 0 23 9
+16 18 0 0 0 0 23 0 21
+0 0 46 0 0 0 0 21 0
+
+0 20 0 0 0 0 0 0 0
+20 0 19 0 0 0 0 15 0
+0 19 0 13 0 48 0 0 36
+0 0 13 0 12 69 0 0 0 
+0 0 0 12 0 30 0 0 0 
+0 0 48 69 30 0 37 0 0
+0 0 0 0 0 37 0 45 89
+60 15 0 0 0 0 45 0 75
+0 0 36 0 0 0 0 75 0
+
+0 2 0 0 0 0 0 0 0
+3 0 5 0 0 0 0 6 0
+0 4 0 8 0 9 0 0 1
+0 0 9 0 7 5 0 0 0 
+0 0 0 2 0 4 0 0 0 
+0 0 2 10 7 0 9 0 0
+0 0 0 0 0 10 0 1 2
+3 4 0 0 0 0 8 0 7
+0 0 9 0 0 0 0 1 0
+  
